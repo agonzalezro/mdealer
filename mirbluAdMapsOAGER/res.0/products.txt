@@ -1,0 +1,60 @@
+0|Ayuntamiento|Plaza Mayor|OPENING|/logo.png||tel://+034923|1
+1|Alcaldía|Plaza Mayor|OPENING|||tel://+034923|1
+2|Grupo PSOE|Plaza Mayor|OPENING|||tel://+034923|1
+3|Grupo PP|Plaza Mayor|OPENING|||tel://+034923|1
+4|Intervención|Plaza Mayor|OPENING|||tel://+034923|1
+5|Tesorería|Plaza Mayor|OPENING|||tel://+034923|1
+6|Atención al ciudadano|Plaza Mayor|OPENING|||tel://+034923|1
+7|Deportes|Plaza Mayor|OPENING|||tel://+034923|1
+8|Oficina Municipal de Turismo|Plaza Mayor|OPENING|||tel://+034923|1
+9|Oficina de Turismo de la Junta de Castilla y León|Plaza Mayor|OPENING|||tel://+034923|1
+10|Urbanismo y Vivienda|Calle Iscar Peyra|OPENING|||tel://+034923|2
+11|Sección de Policía y Actividades Clasificadas|Calle Iscar Peyra|OPENING|||tel://+034923|2
+12|Ingeniería Civil|Calle Iscar Peyra|OPENING|||tel://+034923|2
+13|Medio Ambiente|Calle Iscar Peyra|OPENING|||tel://+034923|2
+14|Recursos Humanos|Calle Iscar Peyra|OPENING|||tel://+034923|2
+15|OAGER Atención al contribuyente|Calle Iscar Peyra|OPENING|||tel://+034923|2
+16|OAGER Recaudación|Calle Iscar Peyra|OPENING|||tel://+034923|2
+17|OAGER Desarrollo Económico Local|Calle Espoz y Mina|OPENING|||tel://+034923|3
+18|OAGER Desarrollo Económico, Redlabora.net|Calle Espoz y Mina|OPENING|||tel://+034923|3
+19|OAGER Gestión Tributaria|Calle Espoz y Mina|OPENING|||tel://+034923|3
+20|OAGER Gerencia|Calle Espoz y Mina|OPENING|||tel://+034923|3
+21|OAGER Asesoría Jurídica|Calle Espoz y Mina|OPENING|||tel://+034923|3
+22|OAGER Defensora del Contribuyente|Calle Espoz y Mina|OPENING|||tel://+034923|3
+23|OAGER Inspección Tributaria|Calle Espoz y Mina|OPENING|||tel://+034923|3
+24|Patronato de Vivienda y Urbanismo|Calle Espoz y Mina|OPENING|||tel://+034923|3
+25|Bienestar Social, Participación Ciudadana y Matrimonios|Calle Peña Primera|OPENING|||tel://+034923|4
+26|Bienestar Social, Cooperación al Desarrollo|Calle Peña Primera|OPENING|||tel://+034923|4
+27|Bienestar Social, Sección Mujer|Calle Peña Primera|OPENING|||tel://+034923|4
+28|Bienestar Social|Calle Peña Primera|OPENING|||tel://+034923|4
+29|Bienestar Social, Sección Empleo e Inclusión Social|Calle Peña Primera|OPENING|||tel://+034923|4
+30|Juzgado|Plaza de Colón|OPENING|||tel://+034923|5
+31|Registro Civil|Plaza de Colón|OPENING|||tel://+034923|5
+32|Audiencia|Gran Vía|OPENING|||tel://+034923|6
+33|Subdelegación del gobierno|Gran Vía|OPENING|||tel://+034923|6
+34|Dirección provincial de Educación|Gran Vía|OPENING|||tel://+034923|6
+35|Centro de Salud F. Villalobos|Cuesta de Sancti Espíritus|OPENING|||tel://+034923|7
+36|Centro de Saluda Universidad-Centro|Cuesta de Sancti Espíritus|OPENING|||tel://+034923|7
+37|Correos|Gran Vía|OPENING|||tel://+034923|8
+38|Tesorería Seguridad Social|Canalejas|OPENING|||tel://+034923|9
+39|Seguridad Social INSS|Canalejas|OPENING|||tel://+034923|9
+40|Delegación Territorial JCyL|Gran Vía|OPENING|||tel://+034923|10
+41|Servicio Territorial de Economía y Hacienda|Gran Vía|OPENING|||tel://+034923|10
+42|Servicio Territorial de Industria, Comercio y Turismo|Gran Vía|OPENING|||tel://+034923|10
+43|Cámara de Propiedad Urbana|Gran Vía|OPENING|||tel://+034923|10
+44|Servicio Territorial de Cultura|Gran Vía|OPENING|||tel://+034923|10
+45|Comisaría de Policia|Ronda de Sancti Spiritus|OPENING|||tel://+034923|11
+46|Cámara de Comercio|Plaza de los Sexmeros|OPENING|||tel://+034923|12
+47|Catastro|Calle de la Reina|OPENING|||tel://+034923|13
+48|Gerencia de Salud de Área|Avenida Mirat|OPENING|||tel://+034923|14
+49|Asociación REMAR (Drogodependencia y Marginación)|Canalejas|OPENING|||tel://+034923|15
+50|Servicio Territorial de Trabajo|Paseo de Carmelitas|OPENING|||tel://+034923|16
+51|Cruz Roja, departamento de empleo|Plaza de San Benito|OPENING|||tel://+034923|17
+52|Servicio Territorial de Medio Ambiente|Calle de Villar y Macías|OPENING|||tel://+034923|18
+53|Registro Mercantil|Calle de Santa Brígida|OPENING|||tel://+034923|19
+54|Diputación Provincial|Calle Felipe Espino|OPENING|||tel://+034923|20
+55|Gerencia Territorial de Servicios Sociales|Calle Correhuela|OPENING|||tel://+034923|21
+56|Universidad Pontificia de Salamanca|Calle Compañía|OPENING|||tel://+034923|22
+57|Oficina de Empleo de San Quintín|Calle Calatañazor|OPENING|||tel://+034923|23
+58|Centros de Acción Social (CEAS) Buenos Aires|Calle Juan de la Fuente|OPENING|||tel://+034923|24
+59|Educación, Salamanca Fundación de Saberes|LOCATION|OPENING|||tel://+034923|25

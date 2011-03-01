@@ -1,0 +1,66 @@
+1 Entrada Compañía
+2 Biblioteca
+3 Auditorio Juan Pablo 2º
+4 Entrada Serranos
+5 Aula Minor B
+6 Cafetería
+6 Tomar una caña
+7 Aula de Grados
+8 Atención al alumno
+8 Becas
+8 Nueva matrícula
+9 Aula Caja Duero
+9 Aula Gina
+10 CPD
+10 Arreglar tarjeta
+11 WC hombres (pasillo CPD)
+12 WC mujeres (pasillo CPD)
+13 Secretaría general
+13 Despacho Secretario
+14 Aula S-32
+15 WC hombres (pasillo informática)
+16 WC mujeres (pasillo informática)
+17 Aula S-35
+17 Aula 4º
+18 Aula S-34
+19 Aula S-33
+19 Aula de 1º
+20 Aula S-32
+20 Aula de 5º
+21 Aula Barroca
+21 Presentación Movente
+22 Secretaría
+23 Despacho Vidal Alonso
+24 Despacho Mariano Raboso
+25 Despacho Alberto Pedrero
+26 Despacho Roberto Berjón
+27 Despacho Miguel Ángel Sánchez
+28 Despacho Marcelo Vallejo
+29 Despacho Ana Fermoso
+30 Aula S-40
+31 Aula S-41
+32 Aula S-42
+33 Despacho Manuel Martín-Merino
+34 Aula de Investigación (entrada A)
+35 Aula de investigación (entrada B)
+36 WC mujeres (4ª planta)
+37 WC hombres (4ª planta)
+38 Despacho J. A. de la Varga
+38 Despacho Miryam Codes
+38 Despacho Ángeles López
+39 Despacho Alfonso López
+39 Despacho Domingo Fernández
+39 Despacho Encarna Beato
+40 Despacho Javier Bajo
+40 Despacho Montse Mateos
+40 Despacho Pablo Maillo
+40 Sala de reuniones profesorado
+41 Aula Poseidón
+42 Aula Mercurio
+43 Aula Eolo
+44 Pla y Daniel
+45 WC hombres (6ª planta)
+46 WC mujeres (6ª planta)
+47 Despachos 6ª planta
+47 Romero Lema
+47 Vinito Español

@@ -1,0 +1,10 @@
+[DEALER]
+time_to_next_send = 1800
+probability = 0
+background_color = #eeeeec
+dealer_name = mdealer
+file_to_send = mdealer-example.png
+path_to_file = /etc/mdealer
+font = /etc/mdealer/VeraBd.ttf
+user_string = Ve a recoger tu premio:
+

@@ -1,0 +1,16 @@
+7e65ac5e34c1ea514f6a51c767458eea  usr/bin/mdealer
+db90f8969f7f9242b2ce94f974f37b48  usr/bin/mdealer-applet
+ec56a8eea53238e2ebcc48f9a1f0a9b8  usr/lib/mdealer/DataBase.pyc
+65492a6b73ffe03122b1552cd6a99e73  usr/lib/mdealer/Config_window.pyc
+d43bff2a53c6b6632f2b1048aacce01a  usr/lib/mdealer/Config.pyc
+88d0aef02e2a82dfa0781f32341e7bec  usr/lib/mdealer/config_window.xml
+73bff7a2e1bbfbdfc813b38c36737c5f  usr/lib/mdealer/Writer.pyc
+be0b30e5c1ad839a83d35327de89a298  usr/lib/mdealer/Event_config_window.pyc
+5a70db028e99f79310538034fe58a2f5  usr/lib/mdealer/Parallel.pyc
+10879a47e5506bd02148e34cbca06639  usr/lib/bonobo/servers/mdealer-applet.server
+98bc871859421aac64683fbbb7e9f181  usr/share/fonts/truetype/Eight One.ttf
+8a50f677db7d64600d5daf378870bc2f  usr/share/pixmaps/mdealer.svg
+7ce27d7d47df2fb60dd3da2eabf95c96  usr/share/doc/mdealer/README.Debian
+f0b5634735e3b4dff51138e990d300c4  usr/share/doc/mdealer/changelog.Debian.gz
+3aee863eb4636eeb444979bd9f5b7022  usr/share/doc/mdealer/copyright
+6ce96671e4a839dae365081c475f659b  sbin/bt_cron_changer

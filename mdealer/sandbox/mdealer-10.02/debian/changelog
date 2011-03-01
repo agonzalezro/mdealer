@@ -1,0 +1,11 @@
+mdealer (10.02-1ubuntu1) karmic; urgency=low
+
+  * Some bugs fixed
+
+ -- Alexandre González <alex@little>  Wed, 24 Feb 2010 13:30:39 +0100
+
+mdealer (10.01-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Alexandre González Rodríguez <alex@mirblu.com>  Fri, 29 Jan 2010 11:39:47 +0100

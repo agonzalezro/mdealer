@@ -1,0 +1,11 @@
+Package: mdealer
+Version: 10.02-1ubuntu1
+Architecture: i386
+Maintainer: Alexandre González Rodríguez <alex@mirblu.com>
+Installed-Size: 296
+Depends: python, python-lightblue, obexftp, python-gtk2, python-bluez, python-glade2, python-gnome2, python-gobject, python-pysqlite2, python2.6, cron, anacron
+Section: gnome
+Priority: extra
+Description: Bluetooth proximity marketing utility
+ mdealer lets you send bluetooth messages via Bluetooth
+ with images, pdf, videos, jars...
