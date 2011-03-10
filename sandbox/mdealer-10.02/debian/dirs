@@ -1,0 +1,7 @@
+sbin
+usr/bin
+usr/lib/mdealer
+etc/mdealer
+usr/share/pixmaps
+usr/share/fonts/truetype/ttf-bitstream-vera
+etc/cron.d

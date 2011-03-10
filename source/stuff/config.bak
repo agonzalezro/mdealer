@@ -1,0 +1,16 @@
+;File to config the dealer, at this time we have a little set of options, they are:
+
+; time_to_next_send -> the time that the dealer will wait for resend the content to a device saved in the DB
+; path_to_file -> the full path to the content file (with or without /)
+; file_to_send -> the content file
+; db_file -> the SQLite DB file
+
+[DEALER]
+time_to_next_send=300
+path_to_file=/home/alex
+file_to_send=fiesta_capi.jpg
+background_color=#257a00
+probability=20
+user_string=Ve a recoger tu premio:
+font=stuff/VeraBd.ttf
+dealer_name=Chupitos en Capi
